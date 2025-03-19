@@ -1,0 +1,1 @@
+model_checkpoint = "distilbert/distilbert-base-cased"

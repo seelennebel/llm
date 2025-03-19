@@ -3,3 +3,6 @@ llm-venv
 llm-kernel
 .vscode
 sample.ipynb
+__pycache__/
+dataset/
+preprocessing_tokenizer/
