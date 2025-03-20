@@ -6,3 +6,6 @@ sample.ipynb
 __pycache__/
 dataset/
 preprocessing_tokenizer/
+AM/
+AM_modified/
+AM_tokenizer/
