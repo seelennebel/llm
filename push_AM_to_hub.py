@@ -2,4 +2,4 @@ from transformers import DistilBertForTokenClassification
 
 model = DistilBertForTokenClassification.from_pretrained("./AM_modified")
 
-model.push_to_hub("AM_safetensored", token="")
+model.push_to_hub("AM")
