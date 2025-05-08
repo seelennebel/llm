@@ -1,5 +1,3 @@
-# Repository of AI Applications for Digital Business Project
-
 ## Installation
 Providing requirements.txt is a tricky task since some libraries require dependencies with different versions.
 Because of this, it is recommended to install all libraries and dependencies on demand.
